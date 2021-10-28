@@ -1,0 +1,35 @@
+.container{
+    text-align: center;
+    margin: 23px;
+}
+table{
+    margin: auto;
+}
+h1{
+    font-size: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input{
+    background-color: yellowgreen;
+    border-radius: 13px;
+    border: 5px solid #736872;
+    font-size: 35px;
+    height: 80px;
+}
+button{
+    border-radius: 10px;
+    font-size: 40px;
+    background: white;
+    width: 101px;
+    height: 63px;
+    margin: 4px;
+}
+.calculator{
+    border: 4px solid c#736872;
+    background-color: #736872;
+    padding: 23px;
+    border-radius: 20px;
+    display: inline-block;
+   
+}
